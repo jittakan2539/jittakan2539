@@ -8,7 +8,7 @@ I am a user-centric UX designer and web develop, with backgrounds in 3D animatio
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [jittakan2539@gmail.com](mailto:jittakan2539@gmail.com)
-* 🧠  I'm learning C#
+* 🧠  I'm learning C#dotnet and Golang
 
 ### Skills
 
